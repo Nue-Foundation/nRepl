@@ -1,8 +1,8 @@
-# REPL Application Documentation
+# Nue REPL Application Documentation
 
 ## Overview
 
-This application provides a Read-Eval-Print Loop (REPL) interface for running code. It allows users to input code interactively, which is then executed using a specified command.
+This application provides a Read-Eval-Print Loop (REPL) interface for running `Nue` code. It allows users to input code interactively, which is then executed using a specified command.
 
 ```shell
 
